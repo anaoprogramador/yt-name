@@ -1,2 +1,2 @@
-# yt-name
-Chrome extension to display embedded YouTube videos you know where
+# yt-namer
+Chrome extension to display embedded YouTube video titles on you know where
