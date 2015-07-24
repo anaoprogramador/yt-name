@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "YouTube Video Namer",
     "description": "Displays embedded YouTube video titles in you know where",
-    "version": "0.0.1",
+    "version": "0.0.2",
 
     "content_scripts": [
         {
