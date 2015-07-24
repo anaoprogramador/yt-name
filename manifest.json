@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "YouTube Video Namer",
+    "description": "Displays embedded YouTube video titles in you know where",
+    "version": "0.0.1",
+
+    "content_scripts": [
+        {
+            "matches": ["http://*.55ch.org/*"],
+            "js": ["bower_components/jquery/dist/jquery.js", "script.js"],
+            "run_at": "document_end"
+        }
+    ],
+
+    "permissions": [
+        "activeTab",
+        "http://www.youtube.com/"
+  ]
+}

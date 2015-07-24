@@ -1,0 +1,20 @@
+{
+  "name": "youtube-video-namer",
+  "version": "0.0.1",
+  "authors": [
+    "Anao Programador <anaoprogramador@gmail.com>"
+  ],
+  "description": "Displays embedded YouTube video titles",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
